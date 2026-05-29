@@ -1,35 +1,26 @@
 {
   "name": "Runestone Game Catalogue",
   "description": "Curated list of free RPG Maker games for the Runestone Android launcher",
-  "version": 1,
+  "version": 2,
   "updated": "2026-05-28",
   "homepage": "https://github.com/KleirRampage45/runestone-catalogue",
   "games": [
     {
-      "id": "yume-nikki",
-      "title": "Yume Nikki",
-      "engine": "easyrpg",
-      "fileSize": 45000000,
-      "downloadUrl": "https://www.rainmakeradventures.com/games/YumeNikki.zip",
-      "sourceName": "rpgmaker.net",
-      "coverUrl": ""
-    },
-    {
       "id": "ib",
       "title": "Ib",
-      "engine": "rgss_vx_ace",
-      "fileSize": 80000000,
-      "downloadUrl": "https://dl.itch.io/ib-v12.zip",
-      "sourceName": "itch.io",
+      "engine": "easyrpg",
+      "fileSize": 45000000,
+      "pageUrl": "https://vgperson.com/games/ib.htm",
+      "sourceName": "vgperson",
       "coverUrl": ""
     },
     {
-      "id": "ao-oni",
-      "title": "Ao Oni",
-      "engine": "rgss_xp",
-      "fileSize": 35000000,
-      "downloadUrl": "https://www.ao-oni.com/download/AoOni.zip",
-      "sourceName": "official",
+      "id": "witchs-house",
+      "title": "The Witch's House",
+      "engine": "rgss_vx",
+      "fileSize": 110000000,
+      "pageUrl": "https://vgperson.com/games/witchhouse.htm",
+      "sourceName": "vgperson",
       "coverUrl": ""
     },
     {
@@ -37,8 +28,8 @@
       "title": "Mad Father",
       "engine": "rgss_vx",
       "fileSize": 95000000,
-      "downloadUrl": "https://dl.itch.io/mad-father.zip",
-      "sourceName": "itch.io",
+      "pageUrl": "https://vgperson.com/games/madfather.htm",
+      "sourceName": "vgperson",
       "coverUrl": ""
     },
     {
@@ -46,26 +37,35 @@
       "title": "Misao",
       "engine": "rgss_vx",
       "fileSize": 70000000,
-      "downloadUrl": "https://dl.itch.io/misao.zip",
-      "sourceName": "itch.io",
+      "pageUrl": "https://vgperson.com/games/misao.htm",
+      "sourceName": "vgperson",
       "coverUrl": ""
     },
     {
-      "id": "the-witchs-house",
-      "title": "The Witch's House",
-      "engine": "rgss_vx",
-      "fileSize": 110000000,
-      "downloadUrl": "https://dl.itch.io/thewitchshouse.zip",
-      "sourceName": "itch.io",
-      "coverUrl": ""
-    },
-    {
-      "id": "pocket-mirror",
-      "title": "Pocket Mirror",
+      "id": "crooked-man",
+      "title": "The Crooked Man",
       "engine": "rgss_vx_ace",
-      "fileSize": 250000000,
-      "downloadUrl": "https://dl.itch.io/pocket-mirror.zip",
-      "sourceName": "itch.io",
+      "fileSize": 65000000,
+      "pageUrl": "https://vgperson.com/games/crookedman.htm",
+      "sourceName": "vgperson",
+      "coverUrl": ""
+    },
+    {
+      "id": "mermaid-swamp",
+      "title": "Mermaid Swamp",
+      "engine": "rgss_vx",
+      "fileSize": 85000000,
+      "pageUrl": "https://vgperson.com/games/mermaidswamp.htm",
+      "sourceName": "vgperson",
+      "coverUrl": ""
+    },
+    {
+      "id": "gray-garden",
+      "title": "The Gray Garden",
+      "engine": "rgss_vx_ace",
+      "fileSize": 220000000,
+      "pageUrl": "https://vgperson.com/games/graygarden.htm",
+      "sourceName": "vgperson",
       "coverUrl": ""
     },
     {
@@ -73,8 +73,8 @@
       "title": "Wadanohara and the Great Blue Sea",
       "engine": "rgss_vx_ace",
       "fileSize": 200000000,
-      "downloadUrl": "https://dl.itch.io/wadanohara.zip",
-      "sourceName": "itch.io",
+      "pageUrl": "https://vgperson.com/games/wadanohara.htm",
+      "sourceName": "vgperson",
       "coverUrl": ""
     },
     {
@@ -82,35 +82,35 @@
       "title": "Mogeko Castle",
       "engine": "rgss_vx_ace",
       "fileSize": 180000000,
-      "downloadUrl": "https://dl.itch.io/mogeko-castle.zip",
-      "sourceName": "itch.io",
+      "pageUrl": "https://vgperson.com/games/mogeko.htm",
+      "sourceName": "vgperson",
       "coverUrl": ""
     },
     {
-      "id": "the-gray-garden",
-      "title": "The Gray Garden",
+      "id": "paranoiac",
+      "title": "Paranoiac",
+      "engine": "rgss_vx",
+      "fileSize": 60000000,
+      "pageUrl": "https://vgperson.com/games/paranoiac.htm",
+      "sourceName": "vgperson",
+      "coverUrl": ""
+    },
+    {
+      "id": "hello-hell",
+      "title": "Hello? Hell... o?",
       "engine": "rgss_vx_ace",
-      "fileSize": 220000000,
-      "downloadUrl": "https://dl.itch.io/the-gray-garden.zip",
-      "sourceName": "itch.io",
+      "fileSize": 50000000,
+      "pageUrl": "https://vgperson.com/games/hellohell.htm",
+      "sourceName": "vgperson",
       "coverUrl": ""
     },
     {
-      "id": "one-shot",
-      "title": "OneShot",
-      "engine": "rgss_vx_ace",
-      "fileSize": 280000000,
-      "downloadUrl": "https://dl.itch.io/oneshot.zip",
-      "sourceName": "itch.io",
-      "coverUrl": ""
-    },
-    {
-      "id": "lisa-the-first",
-      "title": "LISA: The First",
+      "id": "end-roll",
+      "title": "END ROLL",
       "engine": "rgss_vx_ace",
       "fileSize": 120000000,
-      "downloadUrl": "https://dl.itch.io/lisa-the-first.zip",
-      "sourceName": "itch.io",
+      "pageUrl": "https://vgperson.com/games/endroll.htm",
+      "sourceName": "vgperson",
       "coverUrl": ""
     }
   ]
