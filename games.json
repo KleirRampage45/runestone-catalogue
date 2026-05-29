@@ -1,117 +1,135 @@
 {
   "name": "Runestone Game Catalogue",
   "description": "Curated list of free RPG Maker games for the Runestone Android launcher",
-  "version": 2,
-  "updated": "2026-05-28",
+  "version": 3,
+  "updated": "2026-05-29",
   "homepage": "https://github.com/KleirRampage45/runestone-catalogue",
   "games": [
     {
       "id": "ib",
       "title": "Ib",
       "engine": "easyrpg",
-      "fileSize": 45000000,
-      "pageUrl": "https://vgperson.com/games/ib.htm",
-      "sourceName": "vgperson",
-      "coverUrl": ""
+      "downloadOptions": [
+        {
+          "name": "vgperson",
+          "host": "Mediafire",
+          "url": "http://www.mediafire.com/download/2nkyauuhayn0ebx/Ib107.zip",
+          "fileSize": 45000000
+        }
+      ],
+      "sourceName": "vgperson"
     },
     {
       "id": "witchs-house",
       "title": "The Witch's House",
       "engine": "rgss_vx",
-      "fileSize": 110000000,
-      "pageUrl": "https://vgperson.com/games/witchhouse.htm",
-      "sourceName": "vgperson",
-      "coverUrl": ""
+      "downloadOptions": [
+        {
+          "name": "vgperson",
+          "host": "Mediafire",
+          "url": "http://www.mediafire.com/download/7sz5tdjm5mz4v27/WitchHouse.zip",
+          "fileSize": 110000000
+        }
+      ],
+      "sourceName": "vgperson"
     },
     {
       "id": "mad-father",
       "title": "Mad Father",
       "engine": "rgss_vx",
-      "fileSize": 95000000,
-      "pageUrl": "https://vgperson.com/games/madfather.htm",
-      "sourceName": "vgperson",
-      "coverUrl": ""
+      "downloadOptions": [
+        {
+          "name": "vgperson",
+          "host": "Mediafire",
+          "url": "http://www.mediafire.com/download/6sd6qd9g84sk5d8/MadFather.zip",
+          "fileSize": 95000000
+        }
+      ],
+      "sourceName": "vgperson"
     },
     {
       "id": "misao",
       "title": "Misao",
       "engine": "rgss_vx",
-      "fileSize": 70000000,
-      "pageUrl": "https://vgperson.com/games/misao.htm",
-      "sourceName": "vgperson",
-      "coverUrl": ""
-    },
-    {
-      "id": "crooked-man",
-      "title": "The Crooked Man",
-      "engine": "rgss_vx_ace",
-      "fileSize": 65000000,
-      "pageUrl": "https://vgperson.com/games/crookedman.htm",
-      "sourceName": "vgperson",
-      "coverUrl": ""
-    },
-    {
-      "id": "mermaid-swamp",
-      "title": "Mermaid Swamp",
-      "engine": "rgss_vx",
-      "fileSize": 85000000,
-      "pageUrl": "https://vgperson.com/games/mermaidswamp.htm",
-      "sourceName": "vgperson",
-      "coverUrl": ""
+      "downloadOptions": [
+        {
+          "name": "vgperson",
+          "host": "Mediafire",
+          "url": "http://www.mediafire.com/download/f5a3zj4d31b5ywf/Misao.zip",
+          "fileSize": 70000000
+        }
+      ],
+      "sourceName": "vgperson"
     },
     {
       "id": "gray-garden",
       "title": "The Gray Garden",
       "engine": "rgss_vx_ace",
-      "fileSize": 220000000,
-      "pageUrl": "https://vgperson.com/games/graygarden.htm",
-      "sourceName": "vgperson",
-      "coverUrl": ""
+      "downloadOptions": [
+        {
+          "name": "vgperson",
+          "host": "Mediafire",
+          "url": "http://www.mediafire.com/download/z4be5z77mhy4o1c/GrayGarden.zip",
+          "fileSize": 220000000
+        }
+      ],
+      "sourceName": "vgperson"
     },
     {
       "id": "wadanohara",
       "title": "Wadanohara and the Great Blue Sea",
       "engine": "rgss_vx_ace",
-      "fileSize": 200000000,
-      "pageUrl": "https://vgperson.com/games/wadanohara.htm",
-      "sourceName": "vgperson",
-      "coverUrl": ""
+      "downloadOptions": [
+        {
+          "name": "vgperson",
+          "host": "Mediafire",
+          "url": "http://www.mediafire.com/download/s4sfs8e98770bn4/Wadanohara.zip",
+          "fileSize": 200000000
+        }
+      ],
+      "sourceName": "vgperson"
     },
     {
       "id": "mogeko-castle",
       "title": "Mogeko Castle",
       "engine": "rgss_vx_ace",
-      "fileSize": 180000000,
-      "pageUrl": "https://vgperson.com/games/mogeko.htm",
-      "sourceName": "vgperson",
-      "coverUrl": ""
-    },
-    {
-      "id": "paranoiac",
-      "title": "Paranoiac",
-      "engine": "rgss_vx",
-      "fileSize": 60000000,
-      "pageUrl": "https://vgperson.com/games/paranoiac.htm",
-      "sourceName": "vgperson",
-      "coverUrl": ""
-    },
-    {
-      "id": "hello-hell",
-      "title": "Hello? Hell... o?",
-      "engine": "rgss_vx_ace",
-      "fileSize": 50000000,
-      "pageUrl": "https://vgperson.com/games/hellohell.htm",
-      "sourceName": "vgperson",
-      "coverUrl": ""
+      "downloadOptions": [
+        {
+          "name": "vgperson",
+          "host": "Mediafire",
+          "url": "http://www.mediafire.com/download/j3q8yn3q4rbfq1h/MogekoCastle.zip",
+          "fileSize": 180000000
+        }
+      ],
+      "sourceName": "vgperson"
     },
     {
       "id": "end-roll",
       "title": "END ROLL",
       "engine": "rgss_vx_ace",
-      "fileSize": 120000000,
-      "pageUrl": "https://vgperson.com/games/endroll.htm",
-      "sourceName": "vgperson",
-      "coverUrl": ""
+      "downloadOptions": [
+        {
+          "name": "vgperson",
+          "host": "Mediafire",
+          "url": "http://www.mediafire.com/download/6e43y90o7dfk5v4/EndRoll.zip",
+          "fileSize": 120000000
+        }
+      ],
+      "sourceName": "vgperson"
+    },
+    {
+      "id": "liat",
+      "title": "LiEat",
+      "engine": "rgss_vx_ace",
+      "downloadOptions": [
+        {
+          "name": "vgperson",
+          "host": "Mediafire",
+          "url": "http://www.mediafire.com/download/42s83rtu0b0fnbg/LiEat.zip",
+          "fileSize": 150000000
+        }
+      ],
+      "sourceName": "vgperson"
     }
   ]
 }
