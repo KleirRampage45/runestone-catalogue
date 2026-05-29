@@ -1,0 +1,117 @@
+{
+  "name": "Runestone Game Catalogue",
+  "description": "Curated list of free RPG Maker games for the Runestone Android launcher",
+  "version": 1,
+  "updated": "2026-05-28",
+  "homepage": "https://github.com/KleirRampage45/runestone-catalogue",
+  "games": [
+    {
+      "id": "yume-nikki",
+      "title": "Yume Nikki",
+      "engine": "easyrpg",
+      "fileSize": 45000000,
+      "downloadUrl": "https://www.rainmakeradventures.com/games/YumeNikki.zip",
+      "sourceName": "rpgmaker.net",
+      "coverUrl": ""
+    },
+    {
+      "id": "ib",
+      "title": "Ib",
+      "engine": "rgss_vx_ace",
+      "fileSize": 80000000,
+      "downloadUrl": "https://dl.itch.io/ib-v12.zip",
+      "sourceName": "itch.io",
+      "coverUrl": ""
+    },
+    {
+      "id": "ao-oni",
+      "title": "Ao Oni",
+      "engine": "rgss_xp",
+      "fileSize": 35000000,
+      "downloadUrl": "https://www.ao-oni.com/download/AoOni.zip",
+      "sourceName": "official",
+      "coverUrl": ""
+    },
+    {
+      "id": "mad-father",
+      "title": "Mad Father",
+      "engine": "rgss_vx",
+      "fileSize": 95000000,
+      "downloadUrl": "https://dl.itch.io/mad-father.zip",
+      "sourceName": "itch.io",
+      "coverUrl": ""
+    },
+    {
+      "id": "misao",
+      "title": "Misao",
+      "engine": "rgss_vx",
+      "fileSize": 70000000,
+      "downloadUrl": "https://dl.itch.io/misao.zip",
+      "sourceName": "itch.io",
+      "coverUrl": ""
+    },
+    {
+      "id": "the-witchs-house",
+      "title": "The Witch's House",
+      "engine": "rgss_vx",
+      "fileSize": 110000000,
+      "downloadUrl": "https://dl.itch.io/thewitchshouse.zip",
+      "sourceName": "itch.io",
+      "coverUrl": ""
+    },
+    {
+      "id": "pocket-mirror",
+      "title": "Pocket Mirror",
+      "engine": "rgss_vx_ace",
+      "fileSize": 250000000,
+      "downloadUrl": "https://dl.itch.io/pocket-mirror.zip",
+      "sourceName": "itch.io",
+      "coverUrl": ""
+    },
+    {
+      "id": "wadanohara",
+      "title": "Wadanohara and the Great Blue Sea",
+      "engine": "rgss_vx_ace",
+      "fileSize": 200000000,
+      "downloadUrl": "https://dl.itch.io/wadanohara.zip",
+      "sourceName": "itch.io",
+      "coverUrl": ""
+    },
+    {
+      "id": "mogeko-castle",
+      "title": "Mogeko Castle",
+      "engine": "rgss_vx_ace",
+      "fileSize": 180000000,
+      "downloadUrl": "https://dl.itch.io/mogeko-castle.zip",
+      "sourceName": "itch.io",
+      "coverUrl": ""
+    },
+    {
+      "id": "the-gray-garden",
+      "title": "The Gray Garden",
+      "engine": "rgss_vx_ace",
+      "fileSize": 220000000,
+      "downloadUrl": "https://dl.itch.io/the-gray-garden.zip",
+      "sourceName": "itch.io",
+      "coverUrl": ""
+    },
+    {
+      "id": "one-shot",
+      "title": "OneShot",
+      "engine": "rgss_vx_ace",
+      "fileSize": 280000000,
+      "downloadUrl": "https://dl.itch.io/oneshot.zip",
+      "sourceName": "itch.io",
+      "coverUrl": ""
+    },
+    {
+      "id": "lisa-the-first",
+      "title": "LISA: The First",
+      "engine": "rgss_vx_ace",
+      "fileSize": 120000000,
+      "downloadUrl": "https://dl.itch.io/lisa-the-first.zip",
+      "sourceName": "itch.io",
+      "coverUrl": ""
+    }
+  ]
+}
