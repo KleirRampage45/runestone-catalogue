@@ -1,19 +1,20 @@
 {
   "name": "Runestone Game Catalogue",
   "description": "Curated list of free RPG Maker games for the Runestone Android launcher",
-  "version": 3,
-  "updated": "2026-05-29",
+  "version": 4,
+  "updated": "2026-06-03",
   "homepage": "https://github.com/KleirRampage45/runestone-catalogue",
   "games": [
     {
       "id": "ib",
       "title": "Ib",
       "engine": "easyrpg",
+      "fileSize": 45000000,
       "downloadOptions": [
         {
           "name": "vgperson",
           "host": "Mediafire",
-          "url": "http://www.mediafire.com/download/2nkyauuhayn0ebx/Ib107.zip",
+          "url": "https://www.mediafire.com/download/2nkyauuhayn0ebx/Ib107.zip",
           "fileSize": 45000000
         }
       ],
@@ -23,11 +24,12 @@
       "id": "witchs-house",
       "title": "The Witch's House",
       "engine": "rgss_vx",
+      "fileSize": 110000000,
       "downloadOptions": [
         {
           "name": "vgperson",
           "host": "Mediafire",
-          "url": "http://www.mediafire.com/download/7sz5tdjm5mz4v27/WitchHouse.zip",
+          "url": "https://www.mediafire.com/download/7sz5tdjm5mz4v27/WitchHouse.zip",
           "fileSize": 110000000
         }
       ],
@@ -37,11 +39,12 @@
       "id": "mad-father",
       "title": "Mad Father",
       "engine": "rgss_vx",
+      "fileSize": 95000000,
       "downloadOptions": [
         {
           "name": "vgperson",
           "host": "Mediafire",
-          "url": "http://www.mediafire.com/download/6sd6qd9g84sk5d8/MadFather.zip",
+          "url": "https://www.mediafire.com/download/6sd6qd9g84sk5d8/MadFather.zip",
           "fileSize": 95000000
         }
       ],
@@ -51,11 +54,12 @@
       "id": "misao",
       "title": "Misao",
       "engine": "rgss_vx",
+      "fileSize": 70000000,
       "downloadOptions": [
         {
           "name": "vgperson",
           "host": "Mediafire",
-          "url": "http://www.mediafire.com/download/f5a3zj4d31b5ywf/Misao.zip",
+          "url": "https://www.mediafire.com/download/f5a3zj4d31b5ywf/Misao.zip",
           "fileSize": 70000000
         }
       ],
@@ -65,11 +69,12 @@
       "id": "gray-garden",
       "title": "The Gray Garden",
       "engine": "rgss_vx_ace",
+      "fileSize": 220000000,
       "downloadOptions": [
         {
           "name": "vgperson",
           "host": "Mediafire",
-          "url": "http://www.mediafire.com/download/z4be5z77mhy4o1c/GrayGarden.zip",
+          "url": "https://www.mediafire.com/download/z4be5z77mhy4o1c/GrayGarden.zip",
           "fileSize": 220000000
         }
       ],
@@ -79,11 +84,12 @@
       "id": "wadanohara",
       "title": "Wadanohara and the Great Blue Sea",
       "engine": "rgss_vx_ace",
+      "fileSize": 200000000,
       "downloadOptions": [
         {
           "name": "vgperson",
           "host": "Mediafire",
-          "url": "http://www.mediafire.com/download/s4sfs8e98770bn4/Wadanohara.zip",
+          "url": "https://www.mediafire.com/download/s4sfs8e98770bn4/Wadanohara.zip",
           "fileSize": 200000000
         }
       ],
@@ -93,11 +99,12 @@
       "id": "mogeko-castle",
       "title": "Mogeko Castle",
       "engine": "rgss_vx_ace",
+      "fileSize": 180000000,
       "downloadOptions": [
         {
           "name": "vgperson",
           "host": "Mediafire",
-          "url": "http://www.mediafire.com/download/j3q8yn3q4rbfq1h/MogekoCastle.zip",
+          "url": "https://www.mediafire.com/download/j3q8yn3q4rbfq1h/MogekoCastle.zip",
           "fileSize": 180000000
         }
       ],
@@ -107,11 +114,12 @@
       "id": "end-roll",
       "title": "END ROLL",
       "engine": "rgss_vx_ace",
+      "fileSize": 120000000,
       "downloadOptions": [
         {
           "name": "vgperson",
           "host": "Mediafire",
-          "url": "http://www.mediafire.com/download/6e43y90o7dfk5v4/EndRoll.zip",
+          "url": "https://www.mediafire.com/download/6e43y90o7dfk5v4/EndRoll.zip",
           "fileSize": 120000000
         }
       ],
@@ -121,11 +129,12 @@
       "id": "liat",
       "title": "LiEat",
       "engine": "rgss_vx_ace",
+      "fileSize": 150000000,
       "downloadOptions": [
         {
           "name": "vgperson",
           "host": "Mediafire",
-          "url": "http://www.mediafire.com/download/42s83rtu0b0fnbg/LiEat.zip",
+          "url": "https://www.mediafire.com/download/42s83rtu0b0fnbg/LiEat.zip",
           "fileSize": 150000000
         }
       ],
