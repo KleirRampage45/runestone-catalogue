@@ -1,7 +1,7 @@
 {
   "name": "Runestone Game Catalogue",
   "description": "Catalogue of verified RPG Maker, Ren'Py, and indie games for Runestone Android launcher. Engines verified per-game.",
-  "version": 12,
+  "version": 13,
   "updated": "2026-06-04",
   "homepage": "https://github.com/KleirRampage45/runestone-catalogue",
   "games": [
@@ -16,6 +16,21 @@
           "host": "Pixeldrain",
           "url": "https://pixeldrain.com/u/v2WwKQhQ",
           "fileSize": 3380000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "angels-of-death",
+      "title": "Angels of Death",
+      "engine": "rgss_vx_ace",
+      "fileSize": 905850000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/cUXZXuHf",
+          "fileSize": 905850000
         }
       ],
       "sourceName": "steamgg"
@@ -124,6 +139,21 @@
         }
       ],
       "sourceName": "archive.org"
+    },
+    {
+      "id": "desert-stalker",
+      "title": "Desert Stalker",
+      "engine": "renpy",
+      "fileSize": 5450000000,
+      "downloadOptions": [
+        {
+          "name": "Datanodes",
+          "host": "Datanodes",
+          "url": "https://datanodes.to/g4hoh35fxkss",
+          "fileSize": 5450000000
+        }
+      ],
+      "sourceName": "steamgg"
     },
     {
       "id": "8th-heaven",
@@ -292,6 +322,12 @@
           "host": "Mediafire",
           "url": "https://www.mediafire.com/download/2nkyauuhayn0ebx/Ib107.zip",
           "fileSize": 45000000
+        },
+        {
+          "name": "Internet Archive",
+          "host": "Internet Archive",
+          "url": "https://archive.org/download/ib107/Ib107.zip",
+          "fileSize": 45000000
         }
       ],
       "sourceName": "steamgg"
@@ -352,6 +388,21 @@
           "host": "Datanodes",
           "url": "https://datanodes.to/awi1c0h1ik7e/Living_with_my_Little_Sister-SteamGG.NET.zip",
           "fileSize": 68460000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "lust-academy",
+      "title": "Lust Academy (Season 1-3)",
+      "engine": "renpy",
+      "fileSize": 10550000000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/WKoReNML",
+          "fileSize": 10550000000
         }
       ],
       "sourceName": "steamgg"
@@ -520,6 +571,21 @@
           "host": "Pixeldrain",
           "url": "https://pixeldrain.com/u/pa5fQwoH",
           "fileSize": 336010000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "pale-carnations",
+      "title": "Pale Carnations",
+      "engine": "renpy",
+      "fileSize": 9030000000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/469D5rHR",
+          "fileSize": 9030000000
         }
       ],
       "sourceName": "steamgg"
