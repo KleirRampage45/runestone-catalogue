@@ -1,8 +1,8 @@
 {
   "name": "Runestone Game Catalogue",
   "description": "Catalogue of verified RPG Maker, Ren'Py, and indie games for Runestone Android launcher. Engines verified per-game.",
-  "version": 10,
-  "updated": "2026-06-03",
+  "version": 11,
+  "updated": "2026-06-04",
   "homepage": "https://github.com/KleirRampage45/runestone-catalogue",
   "games": [
     {
@@ -216,6 +216,21 @@
       "sourceName": "steamgg"
     },
     {
+      "id": "harem-in-another-world",
+      "title": "Harem in Another World",
+      "engine": "renpy",
+      "fileSize": 974910000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/Ts4Ep9NL",
+          "fileSize": 974910000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
       "id": "ib",
       "title": "Ib",
       "engine": "easyrpg",
@@ -277,6 +292,21 @@
           "host": "Pixeldrain",
           "url": "https://pixeldrain.com/u/qs735RT6",
           "fileSize": 2220000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "living-with-my-little-sister",
+      "title": "Living with my Little Sister",
+      "engine": "renpy",
+      "fileSize": 68460000,
+      "downloadOptions": [
+        {
+          "name": "Datanodes",
+          "host": "Datanodes",
+          "url": "https://datanodes.to/awi1c0h1ik7e/Living_with_my_Little_Sister-SteamGG.NET.zip",
+          "fileSize": 68460000
         }
       ],
       "sourceName": "steamgg"
@@ -364,6 +394,21 @@
           "host": "Pixeldrain",
           "url": "https://pixeldrain.com/u/vXgsh9KG",
           "fileSize": 2450000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "my-waifus-stream-is-going-viral",
+      "title": "My Waifus Stream is Going Viral",
+      "engine": "renpy",
+      "fileSize": 588140000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/NhS9GzXC",
+          "fileSize": 588140000
         }
       ],
       "sourceName": "steamgg"
