@@ -1,40 +1,10 @@
 {
   "name": "Runestone Game Catalogue",
-  "description": "Comprehensive catalogue of free-to-play RPG Maker, Ren'Py, and indie games for the Runestone Android launcher",
-  "version": 7,
+  "description": "Catalogue of verified RPG Maker, Ren'Py, and indie games for Runestone Android launcher. Engines verified per-game.",
+  "version": 8,
   "updated": "2026-06-03",
   "homepage": "https://github.com/KleirRampage45/runestone-catalogue",
   "games": [
-    {
-      "id": "alisa",
-      "title": "Alisa",
-      "engine": "rgss_vx_ace",
-      "fileSize": 464220000,
-      "downloadOptions": [
-        {
-          "name": "Pixeldrain",
-          "host": "Pixeldrain",
-          "url": "https://pixeldrain.com/u/fFJ21ALk",
-          "fileSize": 464220000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
-      "id": "astlibra-revision",
-      "title": "ASTLIBRA Revision",
-      "engine": "rgss_vx_ace",
-      "fileSize": 4450000000,
-      "downloadOptions": [
-        {
-          "name": "Pixeldrain",
-          "host": "Pixeldrain",
-          "url": "https://pixeldrain.com/u/afzkbQ2D",
-          "fileSize": 4450000000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
     {
       "id": "blood-and-lust",
       "title": "Blood and Lust [18+]",
@@ -51,51 +21,6 @@
       "sourceName": "steamgg"
     },
     {
-      "id": "coffee-talk-episode-2",
-      "title": "Coffee Talk Episode 2: Hibiscus & Butterfly",
-      "engine": "rgss_vx_ace",
-      "fileSize": 301160000,
-      "downloadOptions": [
-        {
-          "name": "Pixeldrain",
-          "host": "Pixeldrain",
-          "url": "https://pixeldrain.com/u/jfrmVS1Q",
-          "fileSize": 301160000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
-      "id": "corpse-party-2021",
-      "title": "Corpse Party 2021",
-      "engine": "rgss_vx_ace",
-      "fileSize": 2050000000,
-      "downloadOptions": [
-        {
-          "name": "Pixeldrain",
-          "host": "Pixeldrain",
-          "url": "https://pixeldrain.com/u/uyHhZ9TP",
-          "fileSize": 2050000000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
-      "id": "corpse-party-bundle",
-      "title": "Corpse Party Full Bundle",
-      "engine": "rgss_vx_ace",
-      "fileSize": null,
-      "downloadOptions": [
-        {
-          "name": "Datanodes",
-          "host": "Datanodes",
-          "url": "https://datanodes.to/z5vzfk6wusy0",
-          "fileSize": null
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
       "id": "cruelty-squad",
       "title": "Cruelty Squad",
       "engine": "godot",
@@ -106,36 +31,6 @@
           "host": "Pixeldrain",
           "url": "https://pixeldrain.com/u/65Hm7LLh",
           "fileSize": 194950000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
-      "id": "detention",
-      "title": "Detention",
-      "engine": "rpgmakermv",
-      "fileSize": 655490000,
-      "downloadOptions": [
-        {
-          "name": "Pixeldrain",
-          "host": "Pixeldrain",
-          "url": "https://pixeldrain.com/u/rCVXqzzP",
-          "fileSize": 655490000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
-      "id": "doki-doki-literature-club-plus",
-      "title": "Doki Doki Literature Club Plus!",
-      "engine": "renpy",
-      "fileSize": 1880000000,
-      "downloadOptions": [
-        {
-          "name": "Pixeldrain",
-          "host": "Pixeldrain",
-          "url": "https://pixeldrain.com/u/swH2j4iF",
-          "fileSize": 1880000000
         }
       ],
       "sourceName": "steamgg"
@@ -216,36 +111,6 @@
       "sourceName": "vgperson"
     },
     {
-      "id": "ender-lilies",
-      "title": "ENDER LILIES: Quietus of the Knights",
-      "engine": "rpgmakermv",
-      "fileSize": 1200000000,
-      "downloadOptions": [
-        {
-          "name": "Pixeldrain",
-          "host": "Pixeldrain",
-          "url": "https://pixeldrain.com/u/q3nnHCCH",
-          "fileSize": 1200000000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
-      "id": "ender-magnolia",
-      "title": "ENDER MAGNOLIA: Bloom in the Mist",
-      "engine": "rpgmakermv",
-      "fileSize": 4440000000,
-      "downloadOptions": [
-        {
-          "name": "Pixeldrain",
-          "host": "Pixeldrain",
-          "url": "https://pixeldrain.com/u/RrDJpjeL",
-          "fileSize": 4440000000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
       "id": "fear-and-hunger",
       "title": "Fear and Hunger",
       "engine": "rgss_vx_ace",
@@ -271,21 +136,6 @@
           "host": "Pixeldrain",
           "url": "https://pixeldrain.com/u/8r15VKL7",
           "fileSize": 1580000000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
-      "id": "hylics",
-      "title": "Hylics 1 & 2",
-      "engine": "rgss_vx_ace",
-      "fileSize": null,
-      "downloadOptions": [
-        {
-          "name": "Akirabox",
-          "host": "Akirabox",
-          "url": "https://akirabox.com/E9Qz9W1DmOL2/file",
-          "fileSize": null
         }
       ],
       "sourceName": "steamgg"
@@ -321,21 +171,6 @@
           "name": "Akirabox",
           "host": "Akirabox",
           "url": "https://akirabox.com/0PdzyBpdGeAR/file",
-          "fileSize": null
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
-      "id": "knock-on-the-coffin-lid",
-      "title": "Knock on the Coffin Lid",
-      "engine": "rgss_vx_ace",
-      "fileSize": null,
-      "downloadOptions": [
-        {
-          "name": "Datanodes",
-          "host": "Datanodes",
-          "url": "https://datanodes.to/o4o78ffwwlwq/Knock_on_the_Coffin_Lid-SteamGG.NET.zip",
           "fileSize": null
         }
       ],
@@ -393,21 +228,6 @@
       "sourceName": "steamgg"
     },
     {
-      "id": "mega-man-x-dive",
-      "title": "MEGA MAN X DiVE Offline",
-      "engine": "rgss_vx_ace",
-      "fileSize": 1860000000,
-      "downloadOptions": [
-        {
-          "name": "Pixeldrain",
-          "host": "Pixeldrain",
-          "url": "https://pixeldrain.com/u/Qt9VQgTB",
-          "fileSize": 1860000000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
       "id": "misao",
       "title": "Misao",
       "engine": "rgss_vx",
@@ -444,21 +264,6 @@
       "sourceName": "steamgg"
     },
     {
-      "id": "momodora-moonlit-farewell",
-      "title": "Momodora Moonlit Farewell",
-      "engine": "rgss_vx_ace",
-      "fileSize": 187250000,
-      "downloadOptions": [
-        {
-          "name": "Pixeldrain",
-          "host": "Pixeldrain",
-          "url": "https://pixeldrain.com/u/CQBNxvvf",
-          "fileSize": 187250000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
       "id": "my-sexy-neighbor",
       "title": "My Sexy Neighbor [18+]",
       "engine": "renpy",
@@ -469,21 +274,6 @@
           "host": "Pixeldrain",
           "url": "https://pixeldrain.com/u/vXgsh9KG",
           "fileSize": 2450000000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
-      "id": "nie-no-hakoniwa",
-      "title": "Nie No Hakoniwa Dollhouse of Offerings",
-      "engine": "rgss_vx_ace",
-      "fileSize": 2560000000,
-      "downloadOptions": [
-        {
-          "name": "Pixeldrain",
-          "host": "Pixeldrain",
-          "url": "https://pixeldrain.com/u/5TYAa8b2",
-          "fileSize": 2560000000
         }
       ],
       "sourceName": "steamgg"
@@ -519,21 +309,6 @@
       "sourceName": "steamgg"
     },
     {
-      "id": "oneshot-world-machine",
-      "title": "OneShot World Machine Edition",
-      "engine": "rgss_vx_ace",
-      "fileSize": 392220000,
-      "downloadOptions": [
-        {
-          "name": "Pixeldrain",
-          "host": "Pixeldrain",
-          "url": "https://pixeldrain.com/u/8SMdipcW",
-          "fileSize": 392220000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
       "id": "the-coffin-of-andy-and-leyley",
       "title": "The Coffin of Andy and Leyley",
       "engine": "rgss_vx_ace",
@@ -544,21 +319,6 @@
           "host": "Datanodes",
           "url": "https://datanodes.to/jgcygs2dj397/The_Coffin_of_Andy_and_Leyley.SteamGG.NET.rar",
           "fileSize": 561630000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
-      "id": "the-coma",
-      "title": "The Coma Full Collection",
-      "engine": "rgss_vx_ace",
-      "fileSize": 7170000000,
-      "downloadOptions": [
-        {
-          "name": "Pixeldrain",
-          "host": "Pixeldrain",
-          "url": "https://pixeldrain.com/u/3jojk9B9",
-          "fileSize": 7170000000
         }
       ],
       "sourceName": "steamgg"
@@ -580,21 +340,6 @@
           "host": "Mediafire",
           "url": "https://www.mediafire.com/download/z4be5z77mhy4o1c/GrayGarden.zip",
           "fileSize": 220000000
-        }
-      ],
-      "sourceName": "steamgg"
-    },
-    {
-      "id": "the-letter",
-      "title": "The Letter - Horror Visual Novel",
-      "engine": "renpy",
-      "fileSize": null,
-      "downloadOptions": [
-        {
-          "name": "Akirabox",
-          "host": "Akirabox",
-          "url": "https://akirabox.com/M2BGwYE53j40/file",
-          "fileSize": null
         }
       ],
       "sourceName": "steamgg"
