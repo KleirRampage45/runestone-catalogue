@@ -1,7 +1,7 @@
 {
   "name": "Runestone Game Catalogue",
   "description": "Comprehensive catalogue of free-to-play RPG Maker, Ren'Py, and indie games for the Runestone Android launcher",
-  "version": 6,
+  "version": 7,
   "updated": "2026-06-03",
   "homepage": "https://github.com/KleirRampage45/runestone-catalogue",
   "games": [
@@ -136,6 +136,66 @@
           "host": "Pixeldrain",
           "url": "https://pixeldrain.com/u/swH2j4iF",
           "fileSize": 1880000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "8th-heaven",
+      "title": "Download 8th Heaven 18+ Adult Game [v0.60c]",
+      "engine": "renpy",
+      "fileSize": null,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/AE2sYohh",
+          "fileSize": null
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "beat-banger",
+      "title": "Download Beat Banger 18+ Game [Cathy Volume 2/Build-22656693]",
+      "engine": "renpy",
+      "fileSize": null,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/kG8RnSYt",
+          "fileSize": null
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "cumverse",
+      "title": "Download CUMVERSE 18+ Game [Final]",
+      "engine": "renpy",
+      "fileSize": null,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/KYW1vn2G",
+          "fileSize": null
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "tunnel-escape",
+      "title": "Download Tunnel Escape 18+ Hentai Game [v1.0.8]",
+      "engine": "renpy",
+      "fileSize": null,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/Df9scdzm",
+          "fileSize": null
         }
       ],
       "sourceName": "steamgg"
@@ -563,6 +623,12 @@
         {
           "name": "Akirabox",
           "host": "Akirabox",
+          "url": "https://akirabox.com/vgKGxVD838Qn/file",
+          "fileSize": null
+        },
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
           "url": "https://akirabox.com/vgKGxVD838Qn/file",
           "fileSize": null
         }
