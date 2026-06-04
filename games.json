@@ -1,7 +1,7 @@
 {
   "name": "Runestone Game Catalogue",
   "description": "Catalogue of verified RPG Maker, Ren'Py, and indie games for Runestone Android launcher. Engines verified per-game.",
-  "version": 11,
+  "version": 12,
   "updated": "2026-06-04",
   "homepage": "https://github.com/KleirRampage45/runestone-catalogue",
   "games": [
@@ -19,6 +19,21 @@
         }
       ],
       "sourceName": "steamgg"
+    },
+    {
+      "id": "ao-oni",
+      "title": "Ao Oni",
+      "engine": "rgss_vx",
+      "fileSize": 100000000,
+      "downloadOptions": [
+        {
+          "name": "Internet Archive",
+          "host": "Internet Archive",
+          "url": "https://archive.org/download/ao-oni/aooni_en.zip",
+          "fileSize": 100000000
+        }
+      ],
+      "sourceName": "archive.org"
     },
     {
       "id": "being-a-dik",
@@ -96,6 +111,21 @@
       "sourceName": "steamgg"
     },
     {
+      "id": "dead-plate",
+      "title": "Dead Plate",
+      "engine": "rpgmakermv",
+      "fileSize": 962000000,
+      "downloadOptions": [
+        {
+          "name": "Internet Archive",
+          "host": "Internet Archive",
+          "url": "https://archive.org/download/dead-plate/dead-plate.zip",
+          "fileSize": 962000000
+        }
+      ],
+      "sourceName": "archive.org"
+    },
+    {
       "id": "8th-heaven",
       "title": "Download 8th Heaven 18+ Adult Game [v0.60c]",
       "engine": "renpy",
@@ -154,6 +184,21 @@
         }
       ],
       "sourceName": "steamgg"
+    },
+    {
+      "id": "dwellers-empty-path",
+      "title": "Dweller's Empty Path",
+      "engine": "rpgmakermv",
+      "fileSize": 120000000,
+      "downloadOptions": [
+        {
+          "name": "Internet Archive",
+          "host": "Internet Archive",
+          "url": "https://archive.org/download/dwellers-empty-path/Dwellers%20Empty%20Path.zip",
+          "fileSize": 120000000
+        }
+      ],
+      "sourceName": "archive.org"
     },
     {
       "id": "end-roll",
@@ -333,6 +378,21 @@
       "sourceName": "steamgg"
     },
     {
+      "id": "mermaid-swamp",
+      "title": "Mermaid Swamp",
+      "engine": "rgss_vx",
+      "fileSize": 140000000,
+      "downloadOptions": [
+        {
+          "name": "Internet Archive",
+          "host": "Internet Archive",
+          "url": "https://archive.org/download/mermaid-swamp/MermaidSwamp.zip",
+          "fileSize": 140000000
+        }
+      ],
+      "sourceName": "archive.org"
+    },
+    {
       "id": "milfy-city",
       "title": "Milfy City",
       "engine": "renpy",
@@ -424,6 +484,12 @@
           "host": "Datanodes",
           "url": "https://datanodes.to/f79o8q7cd1xf",
           "fileSize": 592360000
+        },
+        {
+          "name": "Internet Archive",
+          "host": "Internet Archive",
+          "url": "https://archive.org/download/OFF_RPG_201707/OffTranslationV.2.0.zip",
+          "fileSize": 592360000
         }
       ],
       "sourceName": "steamgg"
@@ -472,6 +538,21 @@
         }
       ],
       "sourceName": "steamgg"
+    },
+    {
+      "id": "space-funeral",
+      "title": "Space Funeral",
+      "engine": "rgss_vx_ace",
+      "fileSize": 25000000,
+      "downloadOptions": [
+        {
+          "name": "Internet Archive",
+          "host": "Internet Archive",
+          "url": "https://archive.org/download/space-funeral/Space_Funeral.rar",
+          "fileSize": 25000000
+        }
+      ],
+      "sourceName": "archive.org"
     },
     {
       "id": "summertime-saga",
@@ -561,6 +642,21 @@
       "sourceName": "steamgg"
     },
     {
+      "id": "touhou-mother",
+      "title": "Touhou Mother",
+      "engine": "easyrpg",
+      "fileSize": 100000000,
+      "downloadOptions": [
+        {
+          "name": "Internet Archive",
+          "host": "Internet Archive",
+          "url": "https://archive.org/download/touhou-mother/TouhouMother.zip",
+          "fileSize": 100000000
+        }
+      ],
+      "sourceName": "archive.org"
+    },
+    {
       "id": "wadanohara",
       "title": "Wadanohara and the Great Blue Sea",
       "engine": "rgss_vx_ace",
@@ -595,6 +691,21 @@
         }
       ],
       "sourceName": "steamgg"
+    },
+    {
+      "id": "yume-nikki",
+      "title": "Yume Nikki",
+      "engine": "easyrpg",
+      "fileSize": 32000000,
+      "downloadOptions": [
+        {
+          "name": "Internet Archive",
+          "host": "Internet Archive",
+          "url": "https://archive.org/download/yume-nikki/Yume%20Nikki.zip",
+          "fileSize": 32000000
+        }
+      ],
+      "sourceName": "archive.org"
     }
   ]
 }
