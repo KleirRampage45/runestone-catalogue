@@ -1,114 +1,144 @@
 {
   "name": "Runestone Game Catalogue",
-  "description": "Curated list of free RPG Maker games for the Runestone Android launcher",
-  "version": 4,
+  "description": "Comprehensive catalogue of free-to-play RPG Maker, Ren'Py, and indie games for the Runestone Android launcher",
+  "version": 6,
   "updated": "2026-06-03",
   "homepage": "https://github.com/KleirRampage45/runestone-catalogue",
   "games": [
     {
-      "id": "ib",
-      "title": "Ib",
-      "engine": "easyrpg",
-      "fileSize": 45000000,
-      "downloadOptions": [
-        {
-          "name": "vgperson",
-          "host": "Mediafire",
-          "url": "https://www.mediafire.com/download/2nkyauuhayn0ebx/Ib107.zip",
-          "fileSize": 45000000
-        }
-      ],
-      "sourceName": "vgperson"
-    },
-    {
-      "id": "witchs-house",
-      "title": "The Witch's House",
-      "engine": "rgss_vx",
-      "fileSize": 110000000,
-      "downloadOptions": [
-        {
-          "name": "vgperson",
-          "host": "Mediafire",
-          "url": "https://www.mediafire.com/download/7sz5tdjm5mz4v27/WitchHouse.zip",
-          "fileSize": 110000000
-        }
-      ],
-      "sourceName": "vgperson"
-    },
-    {
-      "id": "mad-father",
-      "title": "Mad Father",
-      "engine": "rgss_vx",
-      "fileSize": 95000000,
-      "downloadOptions": [
-        {
-          "name": "vgperson",
-          "host": "Mediafire",
-          "url": "https://www.mediafire.com/download/6sd6qd9g84sk5d8/MadFather.zip",
-          "fileSize": 95000000
-        }
-      ],
-      "sourceName": "vgperson"
-    },
-    {
-      "id": "misao",
-      "title": "Misao",
-      "engine": "rgss_vx",
-      "fileSize": 70000000,
-      "downloadOptions": [
-        {
-          "name": "vgperson",
-          "host": "Mediafire",
-          "url": "https://www.mediafire.com/download/f5a3zj4d31b5ywf/Misao.zip",
-          "fileSize": 70000000
-        }
-      ],
-      "sourceName": "vgperson"
-    },
-    {
-      "id": "gray-garden",
-      "title": "The Gray Garden",
+      "id": "alisa",
+      "title": "Alisa",
       "engine": "rgss_vx_ace",
-      "fileSize": 220000000,
+      "fileSize": 464220000,
       "downloadOptions": [
         {
-          "name": "vgperson",
-          "host": "Mediafire",
-          "url": "https://www.mediafire.com/download/z4be5z77mhy4o1c/GrayGarden.zip",
-          "fileSize": 220000000
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/fFJ21ALk",
+          "fileSize": 464220000
         }
       ],
-      "sourceName": "vgperson"
+      "sourceName": "steamgg"
     },
     {
-      "id": "wadanohara",
-      "title": "Wadanohara and the Great Blue Sea",
+      "id": "astlibra-revision",
+      "title": "ASTLIBRA Revision",
       "engine": "rgss_vx_ace",
-      "fileSize": 200000000,
+      "fileSize": 4450000000,
       "downloadOptions": [
         {
-          "name": "vgperson",
-          "host": "Mediafire",
-          "url": "https://www.mediafire.com/download/s4sfs8e98770bn4/Wadanohara.zip",
-          "fileSize": 200000000
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/afzkbQ2D",
+          "fileSize": 4450000000
         }
       ],
-      "sourceName": "vgperson"
+      "sourceName": "steamgg"
     },
     {
-      "id": "mogeko-castle",
-      "title": "Mogeko Castle",
-      "engine": "rgss_vx_ace",
-      "fileSize": 180000000,
+      "id": "blood-and-lust",
+      "title": "Blood and Lust [18+]",
+      "engine": "renpy",
+      "fileSize": 6640000000,
       "downloadOptions": [
         {
-          "name": "vgperson",
-          "host": "Mediafire",
-          "url": "https://www.mediafire.com/download/j3q8yn3q4rbfq1h/MogekoCastle.zip",
-          "fileSize": 180000000
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/YghL75hs",
+          "fileSize": 6640000000
         }
       ],
-      "sourceName": "vgperson"
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "coffee-talk-episode-2",
+      "title": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+      "engine": "rgss_vx_ace",
+      "fileSize": 301160000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/jfrmVS1Q",
+          "fileSize": 301160000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "corpse-party-2021",
+      "title": "Corpse Party 2021",
+      "engine": "rgss_vx_ace",
+      "fileSize": 2050000000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/uyHhZ9TP",
+          "fileSize": 2050000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "corpse-party-bundle",
+      "title": "Corpse Party Full Bundle",
+      "engine": "rgss_vx_ace",
+      "fileSize": null,
+      "downloadOptions": [
+        {
+          "name": "Datanodes",
+          "host": "Datanodes",
+          "url": "https://datanodes.to/z5vzfk6wusy0",
+          "fileSize": null
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "cruelty-squad",
+      "title": "Cruelty Squad",
+      "engine": "godot",
+      "fileSize": 194950000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/65Hm7LLh",
+          "fileSize": 194950000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "detention",
+      "title": "Detention",
+      "engine": "rpgmakermv",
+      "fileSize": 655490000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/rCVXqzzP",
+          "fileSize": 655490000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "doki-doki-literature-club-plus",
+      "title": "Doki Doki Literature Club Plus!",
+      "engine": "renpy",
+      "fileSize": 1880000000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/swH2j4iF",
+          "fileSize": 1880000000
+        }
+      ],
+      "sourceName": "steamgg"
     },
     {
       "id": "end-roll",
@@ -117,7 +147,7 @@
       "fileSize": 120000000,
       "downloadOptions": [
         {
-          "name": "vgperson",
+          "name": "Mediafire",
           "host": "Mediafire",
           "url": "https://www.mediafire.com/download/6e43y90o7dfk5v4/EndRoll.zip",
           "fileSize": 120000000
@@ -126,19 +156,454 @@
       "sourceName": "vgperson"
     },
     {
-      "id": "liat",
+      "id": "ender-lilies",
+      "title": "ENDER LILIES: Quietus of the Knights",
+      "engine": "rpgmakermv",
+      "fileSize": 1200000000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/q3nnHCCH",
+          "fileSize": 1200000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "ender-magnolia",
+      "title": "ENDER MAGNOLIA: Bloom in the Mist",
+      "engine": "rpgmakermv",
+      "fileSize": 4440000000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/RrDJpjeL",
+          "fileSize": 4440000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "fear-and-hunger",
+      "title": "Fear and Hunger",
+      "engine": "rgss_vx_ace",
+      "fileSize": 831830000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/eVEBFSXX",
+          "fileSize": 831830000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "fear-and-hunger-2-termina",
+      "title": "Fear and Hunger 2: Termina",
+      "engine": "rgss_vx_ace",
+      "fileSize": 1580000000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/8r15VKL7",
+          "fileSize": 1580000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "hylics",
+      "title": "Hylics 1 & 2",
+      "engine": "rgss_vx_ace",
+      "fileSize": null,
+      "downloadOptions": [
+        {
+          "name": "Akirabox",
+          "host": "Akirabox",
+          "url": "https://akirabox.com/E9Qz9W1DmOL2/file",
+          "fileSize": null
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "ib",
+      "title": "Ib",
+      "engine": "easyrpg",
+      "fileSize": 176480000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/rMBA7qD3",
+          "fileSize": 176480000
+        },
+        {
+          "name": "Mediafire",
+          "host": "Mediafire",
+          "url": "https://www.mediafire.com/download/2nkyauuhayn0ebx/Ib107.zip",
+          "fileSize": 45000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "to-the-moon-beach-episode",
+      "title": "Just a To the Moon Series Beach Episode",
+      "engine": "rpgmakermv",
+      "fileSize": null,
+      "downloadOptions": [
+        {
+          "name": "Akirabox",
+          "host": "Akirabox",
+          "url": "https://akirabox.com/0PdzyBpdGeAR/file",
+          "fileSize": null
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "knock-on-the-coffin-lid",
+      "title": "Knock on the Coffin Lid",
+      "engine": "rgss_vx_ace",
+      "fileSize": null,
+      "downloadOptions": [
+        {
+          "name": "Datanodes",
+          "host": "Datanodes",
+          "url": "https://datanodes.to/o4o78ffwwlwq/Knock_on_the_Coffin_Lid-SteamGG.NET.zip",
+          "fileSize": null
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "lieat",
       "title": "LiEat",
       "engine": "rgss_vx_ace",
       "fileSize": 150000000,
       "downloadOptions": [
         {
-          "name": "vgperson",
+          "name": "Mediafire",
           "host": "Mediafire",
           "url": "https://www.mediafire.com/download/42s83rtu0b0fnbg/LiEat.zip",
           "fileSize": 150000000
         }
       ],
       "sourceName": "vgperson"
+    },
+    {
+      "id": "lisa-the-painful",
+      "title": "LISA: The Painful Definitive Edition",
+      "engine": "rgss_vx_ace",
+      "fileSize": 2220000000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/qs735RT6",
+          "fileSize": 2220000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "mad-father",
+      "title": "Mad Father",
+      "engine": "rgss_vx",
+      "fileSize": 295700000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/t3dMJhfR",
+          "fileSize": 295700000
+        },
+        {
+          "name": "Mediafire",
+          "host": "Mediafire",
+          "url": "https://www.mediafire.com/download/6sd6qd9g84sk5d8/MadFather.zip",
+          "fileSize": 95000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "mega-man-x-dive",
+      "title": "MEGA MAN X DiVE Offline",
+      "engine": "rgss_vx_ace",
+      "fileSize": 1860000000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/Qt9VQgTB",
+          "fileSize": 1860000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "misao",
+      "title": "Misao",
+      "engine": "rgss_vx",
+      "fileSize": 70000000,
+      "downloadOptions": [
+        {
+          "name": "Mediafire",
+          "host": "Mediafire",
+          "url": "https://www.mediafire.com/download/f5a3zj4d31b5ywf/Misao.zip",
+          "fileSize": 70000000
+        }
+      ],
+      "sourceName": "vgperson"
+    },
+    {
+      "id": "mogeko-castle",
+      "title": "Mogeko Castle",
+      "engine": "rgss_vx_ace",
+      "fileSize": 252880000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/ataoVmEk",
+          "fileSize": 252880000
+        },
+        {
+          "name": "Mediafire",
+          "host": "Mediafire",
+          "url": "https://www.mediafire.com/download/j3q8yn3q4rbfq1h/MogekoCastle.zip",
+          "fileSize": 180000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "momodora-moonlit-farewell",
+      "title": "Momodora Moonlit Farewell",
+      "engine": "rgss_vx_ace",
+      "fileSize": 187250000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/CQBNxvvf",
+          "fileSize": 187250000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "my-sexy-neighbor",
+      "title": "My Sexy Neighbor [18+]",
+      "engine": "renpy",
+      "fileSize": 2450000000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/vXgsh9KG",
+          "fileSize": 2450000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "nie-no-hakoniwa",
+      "title": "Nie No Hakoniwa Dollhouse of Offerings",
+      "engine": "rgss_vx_ace",
+      "fileSize": 2560000000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/5TYAa8b2",
+          "fileSize": 2560000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "off",
+      "title": "OFF",
+      "engine": "rgss_vx_ace",
+      "fileSize": 592360000,
+      "downloadOptions": [
+        {
+          "name": "Datanodes",
+          "host": "Datanodes",
+          "url": "https://datanodes.to/f79o8q7cd1xf",
+          "fileSize": 592360000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "oneshot",
+      "title": "OneShot",
+      "engine": "rgss_vx_ace",
+      "fileSize": 336010000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/pa5fQwoH",
+          "fileSize": 336010000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "oneshot-world-machine",
+      "title": "OneShot World Machine Edition",
+      "engine": "rgss_vx_ace",
+      "fileSize": 392220000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/8SMdipcW",
+          "fileSize": 392220000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "the-coffin-of-andy-and-leyley",
+      "title": "The Coffin of Andy and Leyley",
+      "engine": "rgss_vx_ace",
+      "fileSize": 561630000,
+      "downloadOptions": [
+        {
+          "name": "Datanodes",
+          "host": "Datanodes",
+          "url": "https://datanodes.to/jgcygs2dj397/The_Coffin_of_Andy_and_Leyley.SteamGG.NET.rar",
+          "fileSize": 561630000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "the-coma",
+      "title": "The Coma Full Collection",
+      "engine": "rgss_vx_ace",
+      "fileSize": 7170000000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/3jojk9B9",
+          "fileSize": 7170000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "the-gray-garden",
+      "title": "The Gray Garden",
+      "engine": "rgss_vx_ace",
+      "fileSize": 219650000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/Nq4Ro1aH",
+          "fileSize": 219650000
+        },
+        {
+          "name": "Mediafire",
+          "host": "Mediafire",
+          "url": "https://www.mediafire.com/download/z4be5z77mhy4o1c/GrayGarden.zip",
+          "fileSize": 220000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "the-letter",
+      "title": "The Letter - Horror Visual Novel",
+      "engine": "renpy",
+      "fileSize": null,
+      "downloadOptions": [
+        {
+          "name": "Akirabox",
+          "host": "Akirabox",
+          "url": "https://akirabox.com/M2BGwYE53j40/file",
+          "fileSize": null
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "the-witchs-house",
+      "title": "The Witch's House",
+      "engine": "rgss_vx",
+      "fileSize": 110000000,
+      "downloadOptions": [
+        {
+          "name": "Mediafire",
+          "host": "Mediafire",
+          "url": "https://www.mediafire.com/download/7sz5tdjm5mz4v27/WitchHouse.zip",
+          "fileSize": 110000000
+        }
+      ],
+      "sourceName": "vgperson"
+    },
+    {
+      "id": "to-the-moon",
+      "title": "To the Moon",
+      "engine": "rpgmakermv",
+      "fileSize": null,
+      "downloadOptions": [
+        {
+          "name": "Akirabox",
+          "host": "Akirabox",
+          "url": "https://akirabox.com/vgKGxVD838Qn/file",
+          "fileSize": null
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "wadanohara",
+      "title": "Wadanohara and the Great Blue Sea",
+      "engine": "rgss_vx_ace",
+      "fileSize": 69990000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/UpyuFb7K",
+          "fileSize": 69990000
+        },
+        {
+          "name": "Mediafire",
+          "host": "Mediafire",
+          "url": "https://www.mediafire.com/download/s4sfs8e98770bn4/Wadanohara.zip",
+          "fileSize": 200000000
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
+      "id": "your-turn-to-die",
+      "title": "Your Turn To Die -Death Game By Majority-",
+      "engine": "rpgmakermv",
+      "fileSize": 384940000,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/DD4s2DVf",
+          "fileSize": 384940000
+        }
+      ],
+      "sourceName": "steamgg"
     }
   ]
 }
