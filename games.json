@@ -393,6 +393,27 @@
       "sourceName": "steamgg"
     },
     {
+      "id": "lonarpg",
+      "title": "LonaRPG [18+]",
+      "engine": "rgss_vx_ace",
+      "fileSize": 703099417,
+      "downloadOptions": [
+        {
+          "name": "Pixeldrain",
+          "host": "Pixeldrain",
+          "url": "https://pixeldrain.com/u/U7Si7pSr",
+          "fileSize": 703099417
+        },
+        {
+          "name": "Datanodes",
+          "host": "Datanodes",
+          "url": "https://datanodes.to/nx7083clxm1a/LonaRPG_B.0.10.7.5.2.zip",
+          "fileSize": 703099417
+        }
+      ],
+      "sourceName": "steamgg"
+    },
+    {
       "id": "lust-academy",
       "title": "Lust Academy (Season 1-3)",
       "engine": "renpy",
